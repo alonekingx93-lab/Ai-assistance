@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sassy AI Assistant</string>
+    <string name="title_activity_main">Sassy AI Assistant</string>
+    <string name="package_name">com.sassyai.assistant</string>
+    <string name="custom_url_scheme">com.sassyai.assistant</string>
+</resources>
